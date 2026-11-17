@@ -1,0 +1,21 @@
+title: YD-233 的博客
+description: 记录学习、技术、生活与思考。
+url: "https://yd-233.github.io"
+baseurl: ""
+lang: zh-CN
+timezone: Asia/Shanghai
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+
+future: false
+show_excerpts: true
+
+minima:
+  social_links:
+    github: YD-233
